@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to Code and IOT.
 - 💞️ I’m looking to collaborate on innovation projects.
 - 📫 How to reach me +55(41)984993475(Whatsapp) / gelsondos@gmail.com .
-- 👾 I  talk in Portuguese, English, Spanish and French.
+- 🌍 I talk in Portuguese, English, Spanish and French.
 
 <!---
 gelsondos/gelsondos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
